@@ -1,2 +1,2 @@
 # MaxiFarm-program
-Maxi.farm program
+Maxi.fun program
